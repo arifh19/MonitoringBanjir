@@ -1,0 +1,25 @@
+{
+  "name": "monitoring-banjir",
+  "version": "1.0.0",
+  "description": "Sistem Monitoring Banjir Menggunakan Chatbot Whatsapp.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "Bot",
+    "Whatsapp",
+    "Node",
+    "Js",
+    "Monitoring",
+    "Banjir"
+  ],
+  "author": "Abdul Ghofur",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.11.0"
+  }
+}
